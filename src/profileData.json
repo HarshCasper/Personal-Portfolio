@@ -1,0 +1,111 @@
+{
+	"landing": {
+		"firstName": "Harsh Bardhan ",
+		"lastName": "Mishra",
+		"phoneNumber": "+91-9799053844",
+		"bio": "I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors course in Computer Science and Engineering at Sathyabama Institute of Science and Technology. My skills are primarily in Programming through C, C++ and Python, Web Designing, Front-End Web Development, Cloud Services and Applications, Data Analysis and Machine Learning. I'm also an active Content Writer with over 13 Million Views on Quora and my primary strengths lie in my Time Management, Self-Motivation and a deep desire to learn something new.",
+    "email": "erbeusgriffincasper@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/harsh-bardhan-mishra-b19990173/",
+		"github": "https://github.com/harshcasper"
+	},
+	"experience": [
+		{
+				"position": "Microsoft Student Partner",
+				"organization": "Microsoft",
+				"aboutWork": "Student Partners are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future.",
+				"fromDate": "January 2020",
+				"toDate": "Present"
+		},
+		{
+			"position": "Algorithm and Data Structure Developer",
+			"organization": "OpenGenus",
+			"aboutWork": "Writing Technical Content and Articles for OpenGenus.",
+			"fromDate": "December 2019",
+			"toDate": "Present"
+		},
+		{
+			"position": "Intern",
+			"organization": "Global Child Prodigy Awards",
+			"aboutWork": "The ‘Global Child Prodigy Awards intends to create a unique mission and to imprint a strong impression of the prodigies’ rarity in the society.",
+			"fromDate": "October 2019",
+			"toDate": "January 2020"
+		}
+	],
+	"education": [{
+			"university": "Sathyabama Institute of Science and Technology",
+			"degree": "Bachelor of Engineering",
+			"gpa": "9.00",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5-CSS3"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Tensorflow"
+		},
+		{
+			"name": "Scikit-Learn"
+		},
+		{
+			"name": "Flask"
+		},
+		{
+			"name": "Node.js"
+		},
+		{
+			"name": "Java (Android)"
+		},
+		{
+			"name": "C/C++"
+		},
+		{
+			"name": "Content Writing"
+		}
+	],
+	"interests": {
+		"paragraphOne": "💻 Competitive Coding",
+		"paragraphTwo": "⌨️ Typeracing"
+	},
+	"awards": [{
+			"awardDetail": "Second Position at Hack4Good Hackathon organized by School of Computing and Developer Students Club"
+		},
+		{
+			"awardDetail": "Google Cloud Platform Champ"
+		},
+		{
+			"awardDetail": "Received the Udacity Bertelsmann Data Science Scholarship"
+		},
+		{
+			"awardDetail": "Received Javascript Algorithms and Data Structures Certification from freecodecamp"
+		},
+		{
+			"awardDetail": "Received Machine Learning Certification from Coursera"
+		},
+		{
+			"awardDetail": "Received Problem Solving through Programming in C Certification from NPTEL"
+		},
+		{
+			"awardDetail": "Received The Joy of Computing in Python Certification from NPTEL"
+		},
+		{
+			"awardDetail": "Received Tensorflow in Practice Specialization from Coursera"
+		},
+		{
+			"awardDetail": "Received Java for Android from Coursera"
+		},
+		{
+			"awardDetail": "Received Machine Learning with Tensorflow on Google Cloud Platform Specialization from Coursera"
+		},
+		{
+			"awardDetail": "Received the Udacity Intel Edge AI Scholarship"
+		}
+	]
+}
